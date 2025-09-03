@@ -7,15 +7,28 @@ In this project, services such as monitoring of customers receiving managed serv
 ![diagram](msp.jpg)
 
 ## Tech Stack
+* Cloud
+    * Amazon Route53
+    * Amazon CloudFront
+    * Amazon API Gateway
+    * AWS Lambda
+    * Amazon EC2
+    * Amazon RDS
+    * Amazon ECR
+    * Amazon S3
+    * Amazon CloudWatch
+    * AWS Systems Manager
+* DevOps
+    * AWS CodeCommit
+    * AWS CodeBuild
+    * AWS CodePipeline
+    * Bitbucket Pipeline
+    * AWS CDK
+    * Terraform
 * Coding
     * BASH
     * Python
     * Go
-* Amazon Web Services
-    * https://github.com/BeratNzp/project-diagrams/blob/master/msp.jpg
 * Other
-    * Bitbucket Pipeline
-    * AWS CDK
-    * Terraform
     * Steampipe
     * PostgreSQL

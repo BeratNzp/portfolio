@@ -3,6 +3,9 @@
 ## Description
 In this project, for one of Turkey's leading textile companies that uses multiple e-commerce infrastructures, the invoices sent from each infrastructure were evaluated to see if they conformed to a specific JSON schema and then were sent to a central system automatically.
 
+## Diagram
+None
+
 ## Tech Stack
 * Coding
     * Python

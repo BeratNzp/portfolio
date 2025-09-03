@@ -9,7 +9,7 @@ Following an agreement with our client, the infrastructure and application issue
 improvements were made, and the infrastructure and application were relaunched.
 
 ## Diagram
-![diagram](project.jpg)
+![diagram](gglive.jpg)
 
 ## Tech Stack
 * Node.js
