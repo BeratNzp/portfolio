@@ -20,6 +20,7 @@ GAIH is providing online courses about AI/ML. I was setup, manage, monitoring, a
 ## Language
 * Turkish (Mother tongue)
 * English (B1~B2)
+* Italian (A1)
 
 ## Certificates
 * AWS Certified Solutions Architect - Associate (2023/10/08 – 2026/10/08)
