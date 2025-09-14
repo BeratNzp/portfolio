@@ -42,9 +42,6 @@ In this work experience, after understanding the needs of many of our corporate 
 * You can find more technical details of the projects I have worked in the [projects/](./projects/) directory.
 * Here is my skill set file: [skillset.md](./skillset.md)
 
-## References
-* [AWS services by category](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html)
-
 ## ⚠️ Disclaimer / Usage Notice
 
 This repository contains a dynamic CV intended exclusively for evaluation purposes by recruiters and technical staff in relation to job applications I have submitted.

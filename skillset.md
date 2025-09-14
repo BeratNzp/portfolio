@@ -117,3 +117,6 @@
     * Confluence
     * draw.io
     * A lot of Package Managers
+
+## References
+* [AWS services by category](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html)
