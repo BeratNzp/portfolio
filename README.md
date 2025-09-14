@@ -27,8 +27,8 @@ GAIH is providing online courses about AI/ML. I was setup, manage, monitoring, a
 * GNU/Linux System Administration Level 1(2019/07/19 – 2019/08/03)
 
 ## Skills & Projects
-* You can find more technical details of the projects I have worked in the [projects/](projects/) folder.
-* Here is my skill set file: [skillset.md/](skillset.md)
+* You can find more technical details of the projects I have worked in the [projects/](./projects/) directory.
+* Here is my skill set file: [skillset.md](./skillset.md)
 
 ## References
 * [AWS services by category](https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html)
