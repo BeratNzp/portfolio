@@ -1,6 +1,6 @@
 # CV
 
-## Work Experience
+## Work Experiences
 ### # Cloud Engineer @ Commencis (2023/01/02 - Current)
 Commencis provides digital transformation consulting to numerous banks, airlines, textiles, appliances, and international companies operating in various sectors
 
@@ -28,7 +28,7 @@ In this work experience, after understanding the needs of many of our corporate 
 ## Education
 * Management Information Systems Program @ Beykent University (2016 - 2022/06/28)
 
-## Language
+## Languages
 * Turkish (Mother tongue)
 * English (B1~B2)
 * Italian (A1)
