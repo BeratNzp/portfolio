@@ -25,7 +25,8 @@ In this work experience, I contributed to the development of a platform where we
 
 ### # Software Developer Intern @ LLC Agency (2019/06 - 2022/09)
 In this work experience, after understanding the needs of many of our corporate customers on their websites, I was constantly developing and maintaining a CMS panel with HTML, CSS, JavaScript and PHP, where they could manage their website content.
-## Education
+
+## Educations
 * Management Information Systems Program @ Beykent University (2016 - 2022/06/28)
 
 ## Languages
