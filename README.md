@@ -48,10 +48,10 @@ However, here is my tech skill keywords are:
             * Pinpoint
             * SES
         * Cloud Financial Management
-            * AWS Billing Conductor
-            * AWS Cost Explorer
-            * AWS Budgets
-            * AWS Cost and Usage Report
+            * Billing Conductor
+            * Cost Explorer
+            * Budgets
+            * Cost and Usage Report
             * Savings Plans
         * Compute
             * EC2 (Elastic Compute Cloud)
